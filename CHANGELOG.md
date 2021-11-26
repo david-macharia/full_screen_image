@@ -1,3 +1,4 @@
+## [1.0.0] - updated to flutter 2.0
 ## [1.0.0] - February 8, 2020
 
 * full screen image widget  initialized
